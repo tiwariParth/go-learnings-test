@@ -5,8 +5,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"os"
-	
+
 	"github.com/parth/go-learnings/week-11/job-runner/api"
 	"github.com/parth/go-learnings/week-11/job-runner/config"
 	"github.com/parth/go-learnings/week-11/job-runner/queue"

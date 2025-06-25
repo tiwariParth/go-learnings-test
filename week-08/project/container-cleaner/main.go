@@ -6,8 +6,7 @@ import (
 	"os"
 	"strings"
 	"text/tabwriter"
-	"time"
-	
+
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/api/types/filters"
 	"github.com/docker/docker/client"

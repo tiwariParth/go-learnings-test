@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	
+
 	"github.com/parth/go-learnings/week-12/alert-system/api"
 	"github.com/parth/go-learnings/week-12/alert-system/config"
 	"github.com/parth/go-learnings/week-12/alert-system/db"

@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"encoding/json"
-)
-
 // Convert this JavaScript object to a Go struct:
 /*
 const person = {

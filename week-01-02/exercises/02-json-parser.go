@@ -1,10 +1,5 @@
 package main
 
-import (
-	"encoding/json"
-	"fmt"
-)
-
 // Define a struct to represent a Book
 // TODO: Create a struct with appropriate fields
 

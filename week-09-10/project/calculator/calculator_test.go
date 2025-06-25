@@ -2,7 +2,6 @@ package calculator
 
 import (
 	"testing"
-	"math"
 )
 
 // TestAdd tests the Add function

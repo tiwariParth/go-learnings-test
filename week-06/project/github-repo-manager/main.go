@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	
+
 	"github.com/parth/go-learnings/week-06/github-repo-manager/cmd"
 )
 
